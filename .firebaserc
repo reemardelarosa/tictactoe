@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "xcratchyz": {
+      "hosting": {
+        "tictactoe": [
+          "xcratchyz"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "dev": "xcratchyz"
+  }
+}
